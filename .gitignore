@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Unpacked wheels
+airflow_provider_infisical-*
+
+dags
+logs
+config
+plugins
+.DS_Store
