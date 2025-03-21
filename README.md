@@ -5,7 +5,11 @@ This package enables Airflow to use Infisical as a custom secrets backend.
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Installing airflow-provider-infisical](#installing-airflow-provider-infisical)
+- [Enabling the Infisical Secrets Backend](#enabling-the-infisical-secrets-backend)
 - [Quick-start Example](#quick-start-example)
+  - [Setting up your Infisical project](#setting-up-your-infisical-project)
+    - [Authenticating with Infisical through Apache Airflow](#authenticating-with-infisical-through-apache-airflow)
+  - [Configuring the custom secrets backend for Airflow](#configuring-the-custom-secrets-backend-for-airflow)
   - [Initializing Airflow](#initializing-airflow)
   - [Start the Remaining Services](#start-the-remaining-services)
 
