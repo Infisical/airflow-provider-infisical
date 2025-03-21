@@ -44,10 +44,10 @@ class InfisicalBackend(BaseSecretsBackend, LoggingMixin):
           "configs_path": "/configs",
           "url": "https://app.infisical.com",
           "auth_type": "universal-auth",
-          "universal_auth_client_id": "1982a5d0-e5ce-4512-a92d-f56442d01f99",
-          "universal_auth_client_secret": "158b424b24b256f366620e40937c326d70aa5a24f0757d12e108803532c66055",
-          "project_id": "abd70853-ecdf-4a79-b465-cc0a380b820b",
-          "environment_slug": "dev"
+          "universal_auth_client_id": "<client-id>",
+          "universal_auth_client_secret": "<client-secret>",
+          "project_id": "<project-id>",
+          "environment_slug": "<environment-slug>"
         }
     """
 
